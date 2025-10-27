@@ -15,10 +15,13 @@ A Thermometer that uses a SHT30-DIS-B2.5KS, a 0.96" OLED screen, and is controll
 ## PCB
 
    - Front
-<img width="981" height="415" alt="image" src="https://github.com/user-attachments/assets/e768939e-c2ca-4118-8a92-8133b05398dd" />
+<img width="981" height="415" alt="image" src="https://github.com/user-attachments/assets/70886893-1358-40fe-ad28-6d65b304209b" />
+
 
    - Back
-<img width="981" height="415" alt="image" src="https://github.com/user-attachments/assets/a7ae2395-5b02-460f-a49c-a6cb512d0481" />
+<img width="981" height="415" alt="image" src="https://github.com/user-attachments/assets/5574e019-cd72-4c72-8b43-8b1f8b3ec135" />
+
 
    - Schematic
-<img width="981" height="475" alt="image" src="https://github.com/user-attachments/assets/56fa0114-984b-41ee-9470-4ff6521a2efa" />
+<img width="981" height="475" alt="image" src="https://github.com/user-attachments/assets/9bfe79b1-0b47-4c2a-9fce-307708d3900b" />
+
